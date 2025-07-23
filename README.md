@@ -1,11 +1,11 @@
 # <img src="/media/hello.gif" width="30px"> **Hi I'm Prasy Xploit**
 
-<br>
-
 <p align=center>
 <img src="https://github.com/prasyxploit/prasyxploit/blob/prasy/image/Prasy%20233%20Indonesia.png" width="280px">
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=prasyxploit;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
+
+___________________________________________________________________
 
 ![PrasyXploit](https://github.com/prasyxploit/prasyxploit/blob/prasy/image/prasy%20xploit.jpg)
 
