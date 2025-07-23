@@ -5,8 +5,6 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=prasyxploit;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
-___________________________________________________________________
-
 # <img src="/media/tropy.gif" width="50px"> **GitHub Trophies** <img src="/media/tropy.gif" width="50px">
 <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
 </a>
