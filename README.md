@@ -1,7 +1,7 @@
 # <img src="/media/hello.gif" width="30px"> **Hi I'm Prasy Xploit**
 
 <p align=center>
-<img src="https://github.com/prasyxploit/prasyxploit/blob/prasy/image/prasy%20xploit.png" width="260px">
+<img src="https://github.com/prasyxploit/prasyxploit/blob/prasy/image/Prasy%20233%20Indonesia.png" width="260px">
 
 <br>
 
