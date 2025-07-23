@@ -7,6 +7,14 @@
 
 ___________________________________________________________________
 
+# <img src="/media/tropy.gif" width="50px"> **GitHub Trophies** <img src="/media/tropy.gif" width="50px">
+<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
+</a>
+</div>
+<p><center>
+
+___________________________________________________________________
+
 ![PrasyXploit](https://github.com/prasyxploit/prasyxploit/blob/prasy/image/prasy%20xploit.jpg)
 
 
@@ -14,14 +22,6 @@ ___________________________________________________________________
 > - 👀 **I’m Interested In Ethical Hacking**
 > - 💫 **I’m Currently Learning A Lot Of Things**
 > - 💞️ **I’m Looking To Collaborate On Google**
-
-___________________________________________________________________
-
-# <img src="/media/tropy.gif" width="50px"> **GitHub Trophies** <img src="/media/tropy.gif" width="50px">
-<img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
-</a>
-</div>
-<p><center>
 
 ___________________________________________________________________
 
