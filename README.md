@@ -1,4 +1,4 @@
-# <img src="/media/hello.gif" width="30px"> **Hi I'm Prasy Xploit**
+# <img src="/media/hello.gif" width="30px"> **Hi I'm PrasyXploit**
 
 <p align=center>
 <img src="https://github.com/prasyxploit/prasyxploit/blob/prasy/image/Prasy%20233%20Indonesia.png" width="280px">
