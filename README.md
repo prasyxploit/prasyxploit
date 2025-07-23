@@ -1,10 +1,15 @@
 # <img src="/media/hello.gif" width="30px"> **Hi I'm Prasy Xploit**
 
-<img src="https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g"/>
+<p align=center>
+<img src="https://github.com/prasyxploit/prasyxploit/blob/prasy/image/prasy%20xploit.png" width="260px">
+
+<br>
+
+![Termux](https://media0.giphy.com/media/C4NdKtRaQE9m8/giphy.webp?cid=6c09b9521034b8fd75dde569f985dab98b6ec6ff86be509b&ep=v1_internal_gifs_gifId&rid=giphy.webp&ct=g)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=prasyxploit;Passionate+In+WEB+DEV;RESEARCHER)](https://git.io/typing-svg)
 
-![Prasy Xploit](https://github.com/prasyxploit/prasyxploit/blob/prasy/image/prasy%20xploit.jpg)
+![PrasyXploit](https://github.com/prasyxploit/prasyxploit/blob/prasy/image/prasy%20xploit.jpg)
 
 
 > [!WARNING]
